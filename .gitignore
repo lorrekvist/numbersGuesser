@@ -1,0 +1,10 @@
+.idea
+lib
+out
+*.iml
+
+.idea/*
+lib/*
+out/*
+*.iml
+
